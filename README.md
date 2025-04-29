@@ -44,7 +44,7 @@
 
 - 📧 Email: wilmar.0614@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/wilmar-ramirez-812a60263
-/* - 🌐 Portafolio: [tuportafolio.com](https://tuportafolio.com)
+- 🌐 Portafolio:.
 
 ---
 
