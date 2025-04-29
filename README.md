@@ -33,7 +33,17 @@
 ---
 
 ### 📈 GitHub Stats
+# Estadísticas de mi perfil de GitHub
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=radical)
+
+## Lenguajes más usados
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&theme=radical)
+
+## Racha de contribuciones
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=wilmarRamirez&theme=radical)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
 </p>
