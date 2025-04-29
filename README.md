@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
+<h1 align="center">Hola 👋, soy wilmar Aley Ramirez Gil</h1>
 <h3 align="center">👨‍💻 Desarrollador Full Stack apasionado por crear soluciones eficientes e innovadoras</h3>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 Tecnólogo en Análisis y Diseño de Sistemas de Información  
+- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información  
 - 🎓 Estudiante de Ingeniería de Sistemas  
 - 👨‍💻 +2 años de experiencia desarrollando soluciones web full stack  
 - 🚀 He liderado equipos backend y participado en múltiples integraciones de APIs externas  
