@@ -35,7 +35,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmanzur&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
 </p>
 
 ---
