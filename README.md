@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&layout=compact&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez)" alt="Estadísticas de GitHub" />
 
 </p>
 
