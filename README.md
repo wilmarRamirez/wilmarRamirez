@@ -33,7 +33,7 @@
 ---
 
 ### 📈 GitHub Stats
-
+![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=wilmarRamirez&theme=radical)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
 </p>
