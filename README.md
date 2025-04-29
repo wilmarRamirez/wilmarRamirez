@@ -32,7 +32,6 @@
 
 ---
 
-### 📈 GitHub Stats
 # Estadísticas de mi perfil de GitHub
 
 ## GitHub Stats
@@ -44,42 +43,18 @@
 ## Racha de contribuciones
 ![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=wilmarRamirez&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=react&locale=es" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wilmarRamirez&repo=nombre-del-repo&theme=radical" alt="Repositorio más estrellado" />
-</p>
-  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilmarRamirez&theme=radical" alt="Gráfico de contribuciones" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&layout=compact&langs_count=10&theme=radical" alt="Estadísticas de lenguajes" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wilmarRamirez&theme=radical" alt="Trofeos de GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pull-requests/?username=wilmarRamirez&theme=radical" alt="Estadísticas de Pull Requests" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wilmarRamirez&theme=radical" alt="Gráfico de actividad de commits" />
-</p>
-<p align="center">
-  <img src="https://github-readme-repo-stats.vercel.app/api/?username=wilmarRamirez&theme=radical" alt="Estadísticas de repositorios" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-repos/?username=wilmarRamirez&theme=radical" alt="Top Repositorios" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/languages/top/?username=wilmarRamirez&theme=radical" alt="Ranking de lenguajes de programación" />
-</p>
+## Repositorios más estrellados
+![Repositorios más estrellados](https://github-readme-stats.vercel.app/api/pin/?username=wilmarRamirez&repo=nombre-del-repo&theme=radical)
+
+## Trofeos de GitHub
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=wilmarRamirez&theme=radical)
+
+## Gráfico de actividad
+![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=wilmarRamirez&theme=radical)
+
+## Gráfico de contribuciones
+![Gráfico de contribuciones](https://github-contributions.now.sh/?username=wilmarRamirez)
+
 
 
 
