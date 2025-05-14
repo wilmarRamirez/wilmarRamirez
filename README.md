@@ -5,11 +5,11 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información  
-- 🎓 Estudiante de Ingeniería de Sistemas  
-- 👨‍💻 +2 años de experiencia desarrollando soluciones web full stack  
-- 🚀 He liderado equipos backend y participado en múltiples integraciones de APIs externas  
-- ☁️ Experiencia en despliegue de proyectos en AWS  
+- 🎓 Tecnólogo en Análisis y Desarrollo de Sistemas de Información
+- 🎓 Estudiante de Ingeniería de Sistemas
+- 👨‍💻 +2 años de experiencia desarrollando soluciones web full stack
+- 🚀 He liderado equipos backend y participado en múltiples integraciones de APIs externas
+- ☁️ Experiencia en despliegue de proyectos en AWS
 - 🧠 En constante aprendizaje y evolución tecnológica
 
 ---
@@ -34,21 +34,47 @@
 
 # Estadísticas de mi perfil de GitHub
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=radical)
+<table width="70%">
+  <tr>
+    <td><h3>GitHub Stats</h3></td>
+    <td><h3>Lenguajes más usados</h3></td>
+    <td><h3>Racha de contribuciones</h3></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=wilmarRamirez&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&layout=compact&theme=radical" alt="Lenguajes más usados" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=wilmarRamirez&theme=radical" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+</table>
+<table width="70%">
 
-## Lenguajes más usados
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&theme=radical)
+<tr>
+<tr>
+    <td><h3>Trofeos de GitHub</h3></td>
+  </tr>
+    <td>
+    <img src="https://github-profile-trophy.vercel.app/?username=wilmarRamirez&theme=radical" alt="Trofeos de GitHub">
+     </td>
+  </tr>
+</table>
 
-## Trofeos de GitHub
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=wilmarRamirez&theme=radical)
+<table width="70%">
 
-## Gráfico de actividad
-![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=wilmarRamirez&theme=radical)
-
-
-
-
+<tr>
+<tr>
+    <td><h3>Gráfico de actividad</h3></td>
+  </tr>
+    <td>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wilmarRamirez&theme=radical" alt="Gráfico de actividad">
+     </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,4 +86,4 @@
 
 ---
 
-💬 *Gracias por visitar mi perfil. ¡Construyamos algo juntos!*
+💬 _Gracias por visitar mi perfil. ¡Construyamos algo juntos!_
