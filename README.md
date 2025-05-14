@@ -38,7 +38,6 @@
   <tr>
     <td><h3>GitHub Stats</h3></td>
     <td><h3>Lenguajes más usados</h3></td>
-    <td><h3>Racha de contribuciones</h3></td>
   </tr>
   <tr>
     <td>
@@ -46,9 +45,6 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilmarRamirez&layout=compact&theme=radical" alt="Lenguajes más usados" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=wilmarRamirez&theme=radical" alt="Racha de contribuciones" />
     </td>
   </tr>
 </table>
