@@ -34,7 +34,7 @@
 
 # Estadísticas de mi perfil de GitHub
 
-<table width="70%">
+<!-- <table width="70%">
   <tr>
     <td><h3>GitHub Stats</h3></td>
     <td><h3>Lenguajes más usados</h3></td>
@@ -48,7 +48,7 @@
     </td>
   </tr>
 </table>
-<table width="70%">
+<table width="70%"> -->
 
 <tr>
 <tr>
